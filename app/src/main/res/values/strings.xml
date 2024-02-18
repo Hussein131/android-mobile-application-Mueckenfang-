@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlySwatter</string>
+    <string name="welcomeMessage">Welcome to the FlySwatter game</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="gameover">GAME OVER</string>
+    <string name="flyContentDescription" translatable="false">graphic of a fly</string>
+    <string name="highscoreMessage">Provide your name for your highscore:</string>
+    <string name="btnSave">Save</string>
+</resources>
